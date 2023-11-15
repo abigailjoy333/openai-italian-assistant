@@ -1,0 +1,1 @@
+A simple English to Italian translator using openai's new assistant beta. 
